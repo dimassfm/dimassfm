@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning [**Laravel Filament**](https://filamentphp.com/)
 
-##### Skills
+##### 💻 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,mysql)](https://skillicons.dev)
 
 
-##### My Github Stats
+##### 📊 My Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimassfm&show_icons=true&theme=tokyonight)
 
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 ##### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=dimassfm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
