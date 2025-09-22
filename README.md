@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning [**Laravel Filament**](https://filamentphp.com/)
 
+- 🌱 I’m currently learning [**Figma**](https://www.figma.com/)
+
 ##### 💻 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,mysql)](https://skillicons.dev)
